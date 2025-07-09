@@ -1,0 +1,1 @@
+The data_getter file will not run on its own, it is rather a collection of all the code that I used to get data. The scripts for the monthly MODIS are not working yet, however they are close, so I included them anyways.
